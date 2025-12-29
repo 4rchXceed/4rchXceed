@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lyam</h1>
 <h3 align="center">A passionate IT student (2nd year studies)</h3>
 
-- 🔭 I’m currently working on [EPTNet (frontend)](https://github.com/ArchXceed/EPTNet-frontend)
+- 🔭 I’m currently working on **Heldoradia (Minecraft Server) (not yet avilable)**
 
 - 🔭 I’m also currently working on **3000 (not yet avilable)**
 
