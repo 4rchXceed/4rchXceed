@@ -1,39 +1,42 @@
-<h1 align="center">Hi 👋, I'm Lyam</h1>
-<h3 align="center">A passionate IT student (2nd year studies)</h3>
+# Hi, I'm 4rchXceed
 
-- 🔭 I’m currently working on **Heldoradia (Minecraft Server) (not yet avilable)**
+### Computer Science Student in Switzerland
 
-- 🔭 I’m also currently working on **3000 (not yet avilable)**
+- 🔭 I'm currently working on **homelab-manager, a terraform-like server manager program with a declarative configuration**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArchXceed](https://github.com/ArchXceed)
+- 🌱 I'm currently learning **at EPTM**
 
-- I LOVE **Linux and Hatsune Miku :)**
+- 📫 How to reach me **lyam.zambaz@pm.me**
 
-- 📫 How to reach me **lyam.zambaz@gmail.com**
+- ⚡ Fun fact **I love Vocaloid & the virtual singer Hatsune Miku**
 
-- ⚡ Fun fact **I use Arch btw, ricing is life**
+- 👨‍💻 All of my projects are available at **[https://webdash.dev/](https://webdash.dev/)**
 
+- 📝 I don't have a blog yet, but I'm planning to write one
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-1. <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="20"/> </a> <img src="https://progress-bar.xyz/30?width=300" >
-
-2. <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="20"/> </a><img src="https://progress-bar.xyz/60?width=300" >
-3. <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="20"/> </a><img src="https://progress-bar.xyz/70?width=300" >
-4. <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="20"/> </a><img src="https://progress-bar.xyz/90?width=300" >
-5. <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="20"/> </a><img src="https://progress-bar.xyz/20?width=300" >
-6. <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="20"/> </a><img src="https://progress-bar.xyz/50?width=300" >
-7. <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="20"/> </a><img src="https://progress-bar.xyz/90?width=300" >
-8. <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="20"/> </a><img src="https://progress-bar.xyz/70?width=300" >
-9. <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="20"/> </a><img src="https://progress-bar.xyz/110?width=300" >
-10. <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="20"/> </a><img src="https://progress-bar.xyz/60?width=300" >
-11. <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="20"/> </a><img src="https://progress-bar.xyz/70?width=300" >
-12. <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="20"/> </a><img src="https://progress-bar.xyz/90?width=300" >
-13. <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="20"/> </a><img src="https://progress-bar.xyz/30?width=300" >
-14. ⠀<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="20" height="20"/> </a>⠀<img src="https://progress-bar.xyz/40?width=300" >
-15. <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="20"/> </a><img src="https://progress-bar.xyz/50?width=300" >
-16. ⠀<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> </a>⠀<img src="https://progress-bar.xyz/65?width=300" >
+<a href="https://github.com/4rchXceed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="4rchXceed" height="30" width="40" /></a>
+    ... or via email
 </p>
+<h3 align="left">Languages and Tools (Things I know pretty well):</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/svelte" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=svelte" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
 
-<h3 align="left">FOSS will always be better</h3>
+<h3 align="left">Other interesting informations</h3>
+
+- I use [https://github.com/4rchXceed/NixOS](NixOS (link to my dotfiles)) daily. Main code editor: Zed
+- I love Open-Source
+- AI can have it's place in the development process, but absolutely not for what companies tend to use it for, as of 2026
+
+<h3 align="left">My favorite projects</h3>
+
+- [4rchXceed/iced-xml](https://github.com/4rchXceed/iced-xml): "This project aims to combine the speed of Rust, the simplicity of HTML-like markup and the power of CSS-like styling. Built on top of [Iced](https://github.com/iced-rs/iced). Written in Rust, obviously"
+- [4rchXceed/MinLang+4rchXceed/SeriaLang](https://4rchxceed.github.io/MinLang-docs/): "SeriaLang is a programming language aimed to be compiled into Minecraft commands. Written in C#/.NET"
+- [4rchXceed/homelab-manager](https://github.com/4rchXceed/homelab-manager): "Terraform-like tool for managing servers with a declarative configuration. Written in Python"
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rchXceed&show_icons=true&locale=en&layout=compact" alt="4rchXceed" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4rchXceed&show_icons=true&locale=en" alt="4rchXceed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4rchXceed&" alt="4rchXceed" /></p>
+
