@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I love Vocaloid & the virtual singer Hatsune Miku**
 
-- 👨‍💻 All of my projects are available at **[https://webdash.dev/](https://webdash.dev/)**
+- 👨‍💻 All of my projects are available in my Github, but I'm planning to migrate to https://webdash.dev/git (and mirror the repos to Github)
 
 - 📝 I don't have a blog yet, but I'm planning to write one
 
